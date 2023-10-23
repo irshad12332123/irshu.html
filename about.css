@@ -89,37 +89,4 @@ p{
 .p-3:hover{
     border-color: rgb(255, 255, 255);
 }
-    @media (max-width: 1600px){
-
-  
-    .wel-2{
-        margin-left:250px;
-        height: 190px;
-        width: 1050px;
-    }
-    .wel-1{
-        font-size : 80px;
-    }
-    .wel-4{
-        height: 90px;
-        width: 250px;
-        font-size: 50px;
-        margin-top: 30px;
-    }
-    .p-1{
-        width: 880px;
-        height: 420px;
-        display: block;
-        border-width: 20px;;
-    }
-    .intro-1{
-        font-size: 46px;
-        line-height: 50px;
-        font-weight: normal;
-    }
-    .p-3{
-        width: 800px;
-        border-width: 20px;
-    }
-}
-    
+ 
