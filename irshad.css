@@ -95,32 +95,3 @@ p{
     text-decoration: underline;
     color:rgb(2, 161, 127)
 }
-@media (max-width:1900px) {
-   
-    .wel-2{
-        height: 150px;
-        width: 650px;
-        margin-right: 290px;
-        margin-left: 340px;
-    }
-    .img-1-1{
-        display: block;
-        width: 700px;
-        height: 400px;
-        margin-bottom: 90px;
-    }
-    .title{
-        color: white;
-        font-weight: 700;
-        font-size: 80px;
-    }
-    .wel-1{
-        font-size : 90px;
-    }
-    .wel-4{
-        height: 150px;
-        font-size: 40px;
-        width: 250px;
-        font-weight: normal;
-    }
-}
