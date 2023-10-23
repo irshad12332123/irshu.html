@@ -1,6 +1,6 @@
 
 body{
-    background-image:url(bg-1.webp);
+    background-image:url(bg-1.webp)no-repeat;
     background-size: cover;
 }
 .sign-1{
